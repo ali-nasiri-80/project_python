@@ -1,0 +1,1 @@
+1.There should be no folder in the folder where you want to run this script, only the file
